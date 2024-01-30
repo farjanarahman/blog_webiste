@@ -4,7 +4,7 @@
 
                 <!-- LOGO -->
                 <div class="navbar-brand-box">
-                    <a href="index.html" class="logo logo-dark">
+                    <a href="index.php" class="logo logo-dark">
                         <span class="logo-sm">
                             <img src="assets/images/logo-sm.png" alt="" height="22">
                         </span>
@@ -13,7 +13,7 @@
                         </span>
                     </a>
 
-                    <a href="index.html" class="logo logo-light">
+                    <a href="index.php" class="logo logo-light">
                         <span class="logo-sm">
                             <img src="assets/images/logo-sm.png" alt="" height="22">
                         </span>
@@ -36,7 +36,7 @@
                             <li class="menu-title">Menu</li>
 
                             <li>
-                                <a href="index.html">
+                                <a href="index.php">
                                     <i class="uil-home-alt"></i><span class="badge rounded-pill bg-primary float-end">01</span>
                                     <span>Dashboard</span>
                                 </a>
